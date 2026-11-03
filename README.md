@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+> Archived 2026-11-03. This is an unmodified GitHub fork of
+> [`clerk/mcp-tools`](https://github.com/clerk/mcp-tools) (0 commits
+> ahead, 76 behind upstream). Oak never built anything on top of it. If
+> you need this library, use the upstream repo directly rather than
+> this fork. Open Dependabot PRs were closed ahead of archiving.
+>
+> Archived as part of the org's Dependency Patch Tracker sweep.
+
 # MCP Tools
 
 A library built on top of the [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) that makes it easier to implement MCP with auth into your MCP client and/or server.
